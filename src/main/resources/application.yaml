@@ -1,0 +1,7 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+swisscom:
+  url: https://storage.googleapis.com/coding-session-rest-api/
